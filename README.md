@@ -13,7 +13,7 @@
 |             | Resizer     |                    도형 사이즈 변경                         |
 |             | Rotate      |                     도형 회전하기                  |
 |shape        | 기본 Shape   |        Selection, Rectangle, Oval, Line, Polygon                                        |
-|             | 추가 Shape   |                   RoundRectangle, Path, ArcOpen, ArcPie                                    |
+|             | 추가 Shape   |                   RoundRectangle, P, ArcOpen, ArcPie                                    |
 |menus        | Drawing Attribute |                             라인 색                                        |
 |             |                   |                              라인 크기(굵기)                                      |
 |             |                   |                               도형 채우기                                      |
